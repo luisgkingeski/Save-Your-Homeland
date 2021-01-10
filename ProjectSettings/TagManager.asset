@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Obstaculo
+  - PW - Prop
+  - PW - Building
+  - Synty Tree
+  - PW - Nature
+  - Synty Medium Farm
+  - Synty Small Farm
+  - TorreControle
+  - TorresDisplay
+  - kamikazeAlavanca
+  - kamikazeText
+  - dPad
+  - trocar1
+  - trocar2
+  - trocar3
+  - aumentar
+  - diminuir
+  - novoJato
+  - radar
+  - jato1
+  - jato2
+  - jato3
+  - Jato
+  - GPS
+  - gps1
+  - gps2
+  - gps3
+  - gps4
+  - gps5
+  - gps6
+  - gps7
+  - gps8
+  - gps9
+  - gps10
+  - monitor1
+  - monitor2
+  - monitor3
+  - sinalFraco1
+  - sinalFraco2
+  - sinalFraco3
+  - ost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Fragmentos
+  - PW_VFX
+  - PW_Object_Small
+  - PW_Object_Medium
+  - PW_Object_Large
+  - GPS
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
